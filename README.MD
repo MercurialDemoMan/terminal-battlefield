@@ -6,7 +6,7 @@ units:
 
 
 
-\v - virus  = must get to the enemy server
+v - virus  = must get to the enemy server
 
 \# - wall   = prevents virus from movement
 
