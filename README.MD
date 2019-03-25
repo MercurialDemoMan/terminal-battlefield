@@ -6,10 +6,10 @@ units:
 
 
 
-v - virus  = must get to the enemy server
+\v - virus  = must get to the enemy server
 
-# - wall   = prevents virus from movement
+\# - wall   = prevents virus from movement
 
-+ - turret = shoots in certain direction destroying walls and viruses
+\+ - turret = shoots in certain direction destroying walls and viruses
 
-* - mine   = destroys viruses when stepped on
+\* - mine   = destroys viruses when stepped on
